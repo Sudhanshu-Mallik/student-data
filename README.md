@@ -51,5 +51,3 @@ contract EventContract {
    tickets[to][id]+=quantity;
  }
 }
-
-
